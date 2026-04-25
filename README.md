@@ -54,7 +54,7 @@ This project demonstrates how embedded systems and IoT can be applied to solve r
 
 ## Author
 
-   **Omar Ayman Mohamed**
+* **Omar Ayman Mohamed**
 * Communication & Electronics Engineering
 * Zagazig University
 
